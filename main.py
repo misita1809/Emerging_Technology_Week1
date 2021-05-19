@@ -14,6 +14,7 @@ def print_hi(name):
     print(s.format(123,x))
     s = '{1} and {0}'
     print(s.format(123, x))
+    print("Bye")
 
 
 
